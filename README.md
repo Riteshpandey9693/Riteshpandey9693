@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @akashdeep023 (Akash Deep)
+# 👋 Hi, I’m @Riteshpandey
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=akashdeep023.akashdeep023)
 
 ![GIF](https://example.com/your-gif.gif) <!-- Replace with your GIF URL -->
