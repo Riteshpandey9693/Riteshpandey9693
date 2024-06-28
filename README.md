@@ -44,7 +44,8 @@
 | 04   | Amazon Clone       | [Link](#)  | [Repository](#) |
 | 05   | Spotify Clone      | [Link](#)  | [Repository](#) |
 | 06   | WhatApp Chat       | [Link](#)  | [Repository](#) |
-| 07   | To-Do List         | [Live Link](https://riteshpandey9693.github.io//To-Do-List/)  | [Repository](https://github.com/Riteshpandey9693/To-Do-List) || 08   | ToDo Game React    | [Link](#)  | [Repository](#) |
+| 07   | To-Do List         | [Link](https://riteshpandey9693.github.io//To-Do-List/)  | [Repository](https://github.com/Riteshpandey9693/To-Do-List) |
+| 08   | ToDo Game React    | [Link](https://riteshpandey9693.github.io//Calculator/)  | [Repository](https://github.com/Riteshpandey9693/Calculator) |
 | 09   | ToDo Game Js       | [Link](#)  | [Repository](#) |
 | 10   | Lottery Game       | [Link](#)  | [Repository](#) |
 
