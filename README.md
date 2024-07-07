@@ -41,7 +41,7 @@
 | 01   | Life Track         | [Link](#)  | [Repository](#) |
 | 02   | Weather Widget     | [Link](#)  | [Repository](#) |
 | 03   | SimonSay Game Js   | [Link](#)  | [Repository](#) |
-| 04   | Amazon Clone       | [Link](#)  | [Repository](#) |
+| 04   | Amazon Clone       | [Link](https://riteshpandey9693.github.io//Simon-Game/)  | [Repository](https://riteshpandey9693.github.io/Simon-Game/) |
 | 05   | Spotify Clone      | [Link](#)  | [Repository](#) |
 | 06   | WhatApp Chat       | [Link](#)  | [Repository](#) |
 | 07   | To-Do List         | [Link](https://riteshpandey9693.github.io//To-Do-List/)  | [Repository](https://github.com/Riteshpandey9693/To-Do-List) |
