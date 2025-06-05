@@ -56,7 +56,7 @@
 | 1 | **Wanderlust**    | [Live](https://wanderlust-1-cg2z.onrender.com/)                | [GitHub](https://github.com/Riteshpandey9693/Wanderlust)     | [Post](#)      |
 | 2 | **Tasty Bite**    | [Live](https://tasty-bite-7p93.vercel.app/)                    | [GitHub](https://github.com/Riteshpandey9693/Tasty_bite)     | [Post](#)      |
 | 3 | **Weather App**   | [Live](https://weather-app-96.netlify.app/)                    | [GitHub](https://github.com/Riteshpandey9693/Weather-App)    | [Post](#)      |
-| 4 | **Spotify Clone** | [Live](https://spotify-clone-9.netlify.app/)                   | [GitHub](https://github.com/Riteshpandey9693/Spotify-Clone)  | [Post](#)      |
+| 4 | **Spotify Clone** | [Live](https://spotify-clone-9.netlify.app/)                   | [GitHub](https://github.com/Riteshpandey9693/Spotify_Clone)  | [Post](#)      |
 
 ### 🎯 Mini Projects
 
