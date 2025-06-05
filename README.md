@@ -61,11 +61,11 @@
 ### 🎯 Mini Projects
 
 | # | Project Name       | Live Demo                                                        | GitHub Repository                                                |
-|---|--------------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+|---|--------------------|------------------------------------------------------------------|------------------------------------------------------------------|
 | 1 | **Amazon Clone**   | [Live](https://amazon-clone-9.netlify.app/)                      | [GitHub](https://github.com/Riteshpandey9693/Amazon_Clone)       |
-| 2 | **Simon Game**     | [Live](https://riteshpandey9693.github.io/Simon-Game/)           | [GitHub](https://github.com/Riteshpandey9693/Simon-Game)         |
-| 3 | **To-Do List**     | [Live](https://riteshpandey9693.github.io/To-Do-List/)           | [GitHub](https://github.com/Riteshpandey9693/To-Do-List)         |
-| 4 | **Calculator**     | [Live](https://riteshpandey9693.github.io/Calculator/)           | [GitHub](https://github.com/Riteshpandey9693/Calculator)         |
+| 2 | **Simon Game**     | [Live](https://simon-game-9.netlify.app/)                        | [GitHub](https://github.com/Riteshpandey9693/Simon-Game)         |
+| 3 | **To-Do List**     | [Live](https://to-do-lists-9.netlify.app/)                       | [GitHub](https://github.com/Riteshpandey9693/To-Do-List)         |
+| 4 | **Calculator**     | [Live](https://calculator-96.netlify.app/)                       | [GitHub](https://github.com/Riteshpandey9693/Calculator)         |
 
 ---
 
@@ -80,7 +80,7 @@
 
 ## 🎯 Goals Ahead
 
-- 🚀 Dive deeper into backend technologies and full-stack architecture.
+- 🚀 Dive deeper into Fronted technologies and full-stack architecture.
 - 📚 Continue solving DSA problems to sharpen problem-solving skills.
 - 🤝 Open for collaborations, internships, or freelance opportunities.
 
