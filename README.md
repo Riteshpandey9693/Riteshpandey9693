@@ -1,83 +1,89 @@
-# 👋 Hi, I’m @Riteshpandey9693
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=akashdeep023.akashdeep023)
+# 👋 Hi, I’m Ritesh Kumar Pandey (@Riteshpandey9693)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Riteshpandey9693.Riteshpandey9693)
 
 ![GIF](https://example.com/your-gif.gif) <!-- Replace with your GIF URL -->
 
-## 👀 I’m interested in coding.
-## 🌱 I’m currently learning Web development & Java language.
-## 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
+## 🚀 About Me
 
-## Let's connect 💬
-[![Follow me](https://img.shields.io/github/followers/akashdeep023?style=social)](https://github.com/akashdeep023) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+* 👀 I’m passionate about **coding** and building scalable web applications.
+* 🌱 Currently learning **Full-Stack Web Development** and enhancing my **Java** programming skills.
+* 💡 Looking to collaborate on **innovative**, **real-world projects** that align with my interests and skillset.
 
-## 💻 Some stats 💻
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashdeep023&show_icons=true&theme=radical)
+---
 
-## 👨‍💻 Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+## 🤝 Let's Connect
+
+[![GitHub](https://img.shields.io/github/followers/Riteshpandey9693?style=social)](https://github.com/Riteshpandey9693)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/riteshkumarpandey9693/)
+
+---
+
+## 💻 GitHub Stats
+
+![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riteshpandey9693\&show_icons=true\&theme=radical)
+
+---
+
+## 🛠️ Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=flat-square\&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
+
+---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akashdeep023)
 
-## 🧑‍🏫 All Projects
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Riteshpandey9693)
 
-### Major Projects
-| S.No | Major Project   | Live Link  | GitHub Link | Linked Post |
-|------|-----------------|------------|-------------|-------------|
-| 01   | Airbnb Project  | [Link](#)  | [Repository](#) | [Post](#)  |
-| 02   | Food Plaza      | [Link](#)  | [Repository](#) | [Post](#)  |
-| 03   | Netflix Gpt     | [Link](#)  | [Repository](#) | [Post](#)  |
-| 04   | Cors Handler    | [Link](#)  | [Repository](#) | [Post](#)  |
-| 05   | Code With       | [Link](#)  | [Repository](#) | [Post](#)  |
+---
 
-### Mini Major Projects
-| S.No | Mini Major Project | Live Link  | GitHub Link |
-|------|--------------------|------------|-------------|
-| 01   | Life Track         | [Link](#)  | [Repository](#) |
-| 02   | Weather Widget     | [Link](#)  | [Repository](#) |
-| 03   | SimonSay Game Js   | [Link](https://riteshpandey9693.github.io//Simon-Game/)  | [Repository](https://riteshpandey9693.github.io/Simon-Game/) |
-| 04   | Amazon Clone       | [Link](#)  | [Repository](#) |
-| 05   | Spotify Clone      | [Link](#)  | [Repository](#) |
-| 06   | WhatApp Chat       | [Link](#)  | [Repository](#) |
-| 07   | To-Do List         | [Link](https://riteshpandey9693.github.io//To-Do-List/)  | [Repository](https://github.com/Riteshpandey9693/To-Do-List) |
-| 08   | Calculator         | [Link](https://riteshpandey9693.github.io//Calculator/)  | [Repository](https://github.com/Riteshpandey9693/Calculator) |
-| 09   | ToDo Game Js       | [Link](#)  | [Repository](#) |
-| 10   | Lottery Game       | [Link](#)  | [Repository](#) |
+## 🚧 All Projects
 
-### Small Projects
-| S.No | Small Project     | Live Link  | GitHub Link |
-|------|-------------------|------------|-------------|
-| 01   | MT Project        | [Link](#)  | [Repository](#) |
-| 02   | Css Mini Project  | [Link](#)  | [Repository](#) |
-| 03   | Insta Story Js    | [Link](#)  | [Repository](#) |
-| 04   | Card Project Js   | [Link](#)  | [Repository](#) |
+### 🌟 Major Projects
 
-## Pinned
-### Airbnb_Project
-Airbnb_Project: Full-Stack Web Application
-EJS
+| S.No | Project Name  | Live Link                                                | GitHub Repository                                         | LinkedIn Post |
+| ---- | ------------- | -------------------------------------------------------- | --------------------------------------------------------- | ------------- |
+| 01   | Wanderlust    | [Live](https://wanderlust-1-cg2z.onrender.com/)          | [Repo](https://github.com/Riteshpandey9693/Wanderlust)    | [Post](#)     |
+| 02   | Food Plaza    | [Live](https://food-plaza9.netlify.app/)                 | [Repo](https://github.com/Riteshpandey9693/Food-Plaza)    | [Post](#)     |
+| 03   | Netflix GPT   | [Live](https://netflix-gpt-9.netlify.app/)               | [Repo](https://github.com/Riteshpandey9693/NetflixGPT)    | [Post](#)     |
+| 04   | Spotify Clone | [Live](https://spotify-clone-9.netlify.app/)             | [Repo](https://github.com/Riteshpandey9693/Spotify-Clone) | [Post](#)     |
+| 05   | Amazon Clone  | [Live](https://riteshpandey9693.github.io/Amazon-Clone/) | [Repo](https://github.com/Riteshpandey9693/Amazon-Clone)  | [Post](#)     |
 
-### Netflix_Gpt
-Netflix_Gpt: Your Ultimate Movie Companion!
-JavaScript
+### 📦 Mini Projects
 
-### Food_Plaza
-Food Plaza - Elevating Your Fully Responsive Food Delivery Experience! 🍽️
-JavaScript
+| S.No | Project Name    | Live Link                                              | GitHub Repository                                       |
+| ---- | --------------- | ------------------------------------------------------ | ------------------------------------------------------- |
+| 01   | Life Track      | [Live](#)                                              | [Repo](#)                                               |
+| 02   | Weather Widget  | [Live](https://weather-app-96.netlify.app/)            | [Repo](https://github.com/Riteshpandey9693/Weather-App) |
+| 03   | Simon Says Game | [Live](https://riteshpandey9693.github.io/Simon-Game/) | [Repo](https://github.com/Riteshpandey9693/Simon-Game)  |
+| 04   | To-Do List      | [Live](https://riteshpandey9693.github.io/To-Do-List/) | [Repo](https://github.com/Riteshpandey9693/To-Do-List)  |
+| 05   | Calculator      | [Live](https://riteshpandey9693.github.io/Calculator/) | [Repo](https://github.com/Riteshpandey9693/Calculator)  |
 
-### Amazon-Clone
-Amazon-Clone
-HTML
+### 🧩 Small Projects
 
-### Weather_Widget
-Weather App
-JavaScript
+| S.No | Project Name     | Live Link | GitHub Repository |
+| ---- | ---------------- | --------- | ----------------- |
+| 01   | Insta Story JS   | [Link](#) | [Repo](#)         |
+| 02   | Card Project JS  | [Link](#) | [Repo](#)         |
+| 03   | CSS Mini Project | [Link](#) | [Repo](#)         |
+| 04   | MT Project       | [Link](#) | [Repo](#)         |
 
-### Cpp-Coding
-C++ Coding
-C++
+---
+
+## 📌 Pinned Highlights
+
+* **[Wanderlust](https://github.com/Riteshpandey9693/Wanderlust)** - A full-stack clone of Airbnb using Node.js, Express, MongoDB, EJS
+* **[Netflix GPT](https://github.com/Riteshpandey9693/NetflixGPT)** - Movie recommendations powered by OpenAI API
+* **[Food Plaza](https://github.com/Riteshpandey9693/Food-Plaza)** - Fully responsive food delivery site
+* **[Amazon Clone](https://github.com/Riteshpandey9693/Amazon-Clone)** - Amazon homepage clone using HTML & CSS
+* **[Weather Widget](https://github.com/Riteshpandey9693/Weather-App)** - Weather search app using OpenWeatherMap API
+* **[Cpp-Coding](https://github.com/Riteshpandey9693/Cpp-Coding)** - Practice problems in C++
+
+---
+
+**Made with ❤️ by Ritesh Kumar Pandey**
